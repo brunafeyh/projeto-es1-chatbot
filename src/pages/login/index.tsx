@@ -5,7 +5,6 @@ import { AuthFormSection, ContainerInputLogin, TitleApresentation } from './styl
 import LoginForm from '../../components/forms/login'
 import ClearLogo from '../../components/logo/clear-logo'
 
-
 const LoginPage: FC = () => {
 	return (
 		<Stack direction="row" width="100%" height="100vh" justifyContent="center">
