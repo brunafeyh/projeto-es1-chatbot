@@ -5,9 +5,9 @@ const Logo: React.FC = () => {
 	return (
 		<Stack direction="column" alignItems="flex-start" flexGrow={1}>
 				<img
-					src="/images/ai-assistent-logo.png"
+					src="/images/ai-logo.png"
 					alt="logo do Restaurante"
-					style={{  width: '340px', height: '70px', marginBottom: 'auto' }}
+					style={{  width: '280px', height: '70px', marginBottom: 'auto' }}
 				/>
 		</Stack>
 	)
